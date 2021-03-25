@@ -1,2 +1,2 @@
 # Parques-Nacionales
-Repositorio sobre el taller sobre los parques nacionales con HTML y  CSS
+Repositorio del taller sobre los parques nacionales con HTML y  CSS
